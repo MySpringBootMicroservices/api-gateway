@@ -1,4 +1,4 @@
-package com.programming.sihas.api_gateway;
+package com.programming.sihas.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

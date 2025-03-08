@@ -1,4 +1,4 @@
-package com.programming.sihas.api_gateway;
+package com.programming.sihas.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
